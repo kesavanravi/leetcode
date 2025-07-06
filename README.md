@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kesavanravi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/kesavanravi/leetcode/tree/master/0242-valid-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
 | [0777-toeplitz-matrix](https://github.com/kesavanravi/leetcode/tree/master/0777-toeplitz-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +79,5 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
