@@ -30,6 +30,7 @@
 | [0054-spiral-matrix](https://github.com/kesavanravi/leetcode/tree/master/0054-spiral-matrix) |
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
 | [0777-toeplitz-matrix](https://github.com/kesavanravi/leetcode/tree/master/0777-toeplitz-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/kesavanravi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kesavanravi/leetcode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/kesavanravi/leetcode/tree/master/0777-toeplitz-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/kesavanravi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
