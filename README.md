@@ -31,6 +31,7 @@
 | [0011-container-with-most-water](https://github.com/kesavanravi/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kesavanravi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/kesavanravi/leetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/kesavanravi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kesavanravi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/kesavanravi/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kesavanravi/leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/kesavanravi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0861-flipping-an-image](https://github.com/kesavanravi/leetcode/tree/master/0861-flipping-an-image) |
 ## Greedy
@@ -65,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kesavanravi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/kesavanravi/leetcode/tree/master/0242-valid-anagram) |
 ## Bucket Sort
