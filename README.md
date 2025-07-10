@@ -31,6 +31,7 @@
 | [0014-longest-common-prefix](https://github.com/kesavanravi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/kesavanravi/leetcode/tree/master/0054-spiral-matrix) |
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kesavanravi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/kesavanravi/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/kesavanravi/leetcode/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kesavanravi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kesavanravi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kesavanravi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
