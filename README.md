@@ -109,8 +109,10 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
