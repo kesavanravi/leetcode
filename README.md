@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kesavanravi/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kesavanravi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/kesavanravi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/kesavanravi/leetcode/tree/master/0242-valid-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -33,6 +34,7 @@
 | [0014-longest-common-prefix](https://github.com/kesavanravi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/kesavanravi/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kesavanravi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/kesavanravi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kesavanravi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/kesavanravi/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kesavanravi/leetcode/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kesavanravi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
