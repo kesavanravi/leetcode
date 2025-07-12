@@ -19,6 +19,7 @@
 | [0014-longest-common-prefix](https://github.com/kesavanravi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kesavanravi/leetcode/tree/master/0242-valid-anagram) |
+| [1797-goal-parser-interpretation](https://github.com/kesavanravi/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/kesavanravi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
