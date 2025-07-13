@@ -52,6 +52,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,10 +61,12 @@
 | [0151-reverse-words-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0861-flipping-an-image](https://github.com/kesavanravi/leetcode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/kesavanravi/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kesavanravi/leetcode/tree/master/0011-container-with-most-water) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 | [0088-merge-sorted-array](https://github.com/kesavanravi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/kesavanravi/leetcode/tree/master/0242-valid-anagram) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bucket Sort
 |  |
 | ------- |
