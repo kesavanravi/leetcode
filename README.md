@@ -62,6 +62,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/kesavanravi/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [2481-strictly-palindromic-number](https://github.com/kesavanravi/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/kesavanravi/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
