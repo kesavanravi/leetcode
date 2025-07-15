@@ -68,6 +68,7 @@
 | [0455-assign-cookies](https://github.com/kesavanravi/leetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/kesavanravi/leetcode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/kesavanravi/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2481-strictly-palindromic-number](https://github.com/kesavanravi/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Greedy
@@ -143,6 +144,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/kesavanravi/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2481-strictly-palindromic-number](https://github.com/kesavanravi/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Number Theory
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kesavanravi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/kesavanravi/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
