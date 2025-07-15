@@ -53,6 +53,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kesavanravi/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -138,6 +139,7 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/kesavanravi/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kesavanravi/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/kesavanravi/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
