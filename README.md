@@ -25,6 +25,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
