@@ -46,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/kesavanravi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kesavanravi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/kesavanravi/leetcode/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/kesavanravi/leetcode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/kesavanravi/leetcode/tree/master/0455-assign-cookies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kesavanravi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/kesavanravi/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -144,6 +145,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kesavanravi/leetcode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/kesavanravi/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kesavanravi/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/kesavanravi/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -157,12 +159,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kesavanravi/leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/kesavanravi/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kesavanravi/leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/kesavanravi/leetcode/tree/master/2083-three-divisors) |
 ## Dynamic Programming
 |  |
