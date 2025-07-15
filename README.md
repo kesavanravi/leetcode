@@ -11,6 +11,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -129,6 +131,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
