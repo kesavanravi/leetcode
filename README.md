@@ -27,6 +27,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -125,6 +126,7 @@
 | [0054-spiral-matrix](https://github.com/kesavanravi/leetcode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/kesavanravi/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kesavanravi/leetcode/tree/master/0898-transpose-matrix) |
+| [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 ## Counting
 |  |
 | ------- |
