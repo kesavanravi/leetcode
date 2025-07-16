@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kesavanravi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1755-defuse-the-bomb](https://github.com/kesavanravi/leetcode/tree/master/1755-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kesavanravi/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kesavanravi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1755-defuse-the-bomb](https://github.com/kesavanravi/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kesavanravi/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
