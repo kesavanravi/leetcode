@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kesavanravi/leetcode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/kesavanravi/leetcode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/kesavanravi/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kesavanravi/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/kesavanravi/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
