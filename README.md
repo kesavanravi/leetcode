@@ -149,6 +149,7 @@
 | [0566-reshape-the-matrix](https://github.com/kesavanravi/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/kesavanravi/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kesavanravi/leetcode/tree/master/0898-transpose-matrix) |
+| [1195-distribute-candies-to-people](https://github.com/kesavanravi/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kesavanravi/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 ## Counting
@@ -171,6 +172,7 @@
 | [0263-ugly-number](https://github.com/kesavanravi/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/kesavanravi/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/kesavanravi/leetcode/tree/master/1013-fibonacci-number) |
+| [1195-distribute-candies-to-people](https://github.com/kesavanravi/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kesavanravi/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/kesavanravi/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
