@@ -220,4 +220,8 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kesavanravi/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kesavanravi/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
