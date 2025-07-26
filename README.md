@@ -151,6 +151,7 @@
 | [0898-transpose-matrix](https://github.com/kesavanravi/leetcode/tree/master/0898-transpose-matrix) |
 | [1195-distribute-candies-to-people](https://github.com/kesavanravi/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kesavanravi/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kesavanravi/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 ## Counting
 |  |
@@ -178,6 +179,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/kesavanravi/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kesavanravi/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/kesavanravi/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kesavanravi/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
