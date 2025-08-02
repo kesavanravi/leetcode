@@ -77,6 +77,7 @@
 | [2561-number-of-distinct-averages](https://github.com/kesavanravi/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kesavanravi/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kesavanravi/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/kesavanravi/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -188,6 +189,7 @@
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kesavanravi/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3371-harshad-number](https://github.com/kesavanravi/leetcode/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/kesavanravi/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
