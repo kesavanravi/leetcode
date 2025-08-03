@@ -15,6 +15,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2561-number-of-distinct-averages](https://github.com/kesavanravi/leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2825-minimize-string-length](https://github.com/kesavanravi/leetcode/tree/master/2825-minimize-string-length) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kesavanravi/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -37,6 +38,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/kesavanravi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2825-minimize-string-length](https://github.com/kesavanravi/leetcode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
