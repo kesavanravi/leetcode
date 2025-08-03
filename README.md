@@ -15,6 +15,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2561-number-of-distinct-averages](https://github.com/kesavanravi/leetcode/tree/master/2561-number-of-distinct-averages) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/kesavanravi/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -77,6 +78,7 @@
 | [2561-number-of-distinct-averages](https://github.com/kesavanravi/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kesavanravi/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/kesavanravi/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kesavanravi/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kesavanravi/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
