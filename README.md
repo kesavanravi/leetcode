@@ -189,6 +189,7 @@
 | [2481-strictly-palindromic-number](https://github.com/kesavanravi/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kesavanravi/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/kesavanravi/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3371-harshad-number](https://github.com/kesavanravi/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
