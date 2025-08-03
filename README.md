@@ -69,6 +69,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/kesavanravi/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/kesavanravi/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kesavanravi/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-find-the-highest-altitude](https://github.com/kesavanravi/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -248,4 +249,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kesavanravi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/kesavanravi/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
