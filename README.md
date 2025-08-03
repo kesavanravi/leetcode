@@ -76,6 +76,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/kesavanravi/leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kesavanravi/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kesavanravi/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -192,6 +193,7 @@
 | [2491-smallest-even-multiple](https://github.com/kesavanravi/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kesavanravi/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/kesavanravi/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/kesavanravi/leetcode/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/kesavanravi/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
