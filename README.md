@@ -79,6 +79,7 @@
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kesavanravi/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kesavanravi/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/kesavanravi/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -191,6 +192,7 @@
 | [3371-harshad-number](https://github.com/kesavanravi/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kesavanravi/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/kesavanravi/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
