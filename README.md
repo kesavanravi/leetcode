@@ -87,6 +87,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kesavanravi/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kesavanravi/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kesavanravi/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/kesavanravi/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -118,6 +119,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kesavanravi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kesavanravi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/kesavanravi/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kesavanravi/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
+| [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -255,4 +258,12 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/kesavanravi/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
