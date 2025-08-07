@@ -32,6 +32,7 @@
 | [1894-merge-strings-alternately](https://github.com/kesavanravi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/kesavanravi/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/kesavanravi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/kesavanravi/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kesavanravi/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/kesavanravi/leetcode/tree/master/0455-assign-cookies) |
+| [2032-largest-odd-number-in-string](https://github.com/kesavanravi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kesavanravi/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -196,6 +198,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kesavanravi/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/kesavanravi/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2032-largest-odd-number-in-string](https://github.com/kesavanravi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/kesavanravi/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kesavanravi/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
