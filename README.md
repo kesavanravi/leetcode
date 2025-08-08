@@ -39,6 +39,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/kesavanravi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kesavanravi/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/kesavanravi/leetcode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
@@ -170,6 +171,7 @@
 | [1195-distribute-candies-to-people](https://github.com/kesavanravi/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kesavanravi/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kesavanravi/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
