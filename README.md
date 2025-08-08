@@ -44,6 +44,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/kesavanravi/leetcode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -144,6 +145,7 @@
 | [2561-number-of-distinct-averages](https://github.com/kesavanravi/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kesavanravi/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
