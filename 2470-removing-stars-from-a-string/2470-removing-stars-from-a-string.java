@@ -3,10 +3,7 @@ class Solution {
         Stack<Character> st=new Stack<>();
         char[] ch=s.toCharArray();
         for(int i=0;i<ch.length;i++){
-            if(!st.isEmpty() && ch[i]!='*'){
-                st.push(ch[i]);
-            }
-            else if(!st.isEmpty() && ch[i]=='*'){
+            if(!st.isEmpty() && ch[i]=='*'){
                 st.pop();
             }
             else{
