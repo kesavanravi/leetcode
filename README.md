@@ -46,6 +46,7 @@
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
+| [3540-hash-divided-string](https://github.com/kesavanravi/leetcode/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kesavanravi/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -177,6 +178,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/kesavanravi/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
+| [3540-hash-divided-string](https://github.com/kesavanravi/leetcode/tree/master/3540-hash-divided-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
