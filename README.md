@@ -40,6 +40,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/kesavanravi/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/kesavanravi/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kesavanravi/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/kesavanravi/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kesavanravi/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -89,6 +90,7 @@
 | [1833-find-the-highest-altitude](https://github.com/kesavanravi/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/kesavanravi/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kesavanravi/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kesavanravi/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kesavanravi/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kesavanravi/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
