@@ -213,6 +213,7 @@
 | [0204-count-primes](https://github.com/kesavanravi/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kesavanravi/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kesavanravi/leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/kesavanravi/leetcode/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/kesavanravi/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/kesavanravi/leetcode/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/kesavanravi/leetcode/tree/master/1195-distribute-candies-to-people) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kesavanravi/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kesavanravi/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/kesavanravi/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
