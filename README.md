@@ -51,6 +51,7 @@
 | [2825-minimize-string-length](https://github.com/kesavanravi/leetcode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/kesavanravi/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3396-valid-word](https://github.com/kesavanravi/leetcode/tree/master/3396-valid-word) |
 | [3540-hash-divided-string](https://github.com/kesavanravi/leetcode/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -127,6 +128,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kesavanravi/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kesavanravi/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [3055-maximum-odd-binary-number](https://github.com/kesavanravi/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Trie
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/kesavanravi/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kesavanravi/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/kesavanravi/leetcode/tree/master/2752-sum-multiples) |
+| [3055-maximum-odd-binary-number](https://github.com/kesavanravi/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3371-harshad-number](https://github.com/kesavanravi/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesavanravi/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/kesavanravi/leetcode/tree/master/3567-convert-date-to-binary) |
