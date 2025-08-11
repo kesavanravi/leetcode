@@ -33,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/kesavanravi/leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/kesavanravi/leetcode/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/kesavanravi/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kesavanravi/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kesavanravi/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1666-make-the-string-great](https://github.com/kesavanravi/leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kesavanravi/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kesavanravi/leetcode/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kesavanravi/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/kesavanravi/leetcode/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
