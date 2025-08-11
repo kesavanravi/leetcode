@@ -8,7 +8,7 @@ class Solution {
             else if(s.equals("D")){
                 st.push(st.peek()*2);
             }
-            else if(!st.isEmpty() && s.equals("+")){
+            else if(s.equals("+")){
                 int a=st.pop();
                 int b=a+st.peek();
                 st.push(a);
