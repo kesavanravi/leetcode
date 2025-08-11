@@ -51,6 +51,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kesavanravi/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/kesavanravi/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kesavanravi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/kesavanravi/leetcode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/kesavanravi/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -194,6 +195,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/kesavanravi/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kesavanravi/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kesavanravi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/kesavanravi/leetcode/tree/master/2886-faulty-keyboard) |
 | [3540-hash-divided-string](https://github.com/kesavanravi/leetcode/tree/master/3540-hash-divided-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/kesavanravi/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -316,4 +318,5 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kesavanravi/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/kesavanravi/leetcode/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kesavanravi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
