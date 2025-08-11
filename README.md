@@ -34,6 +34,7 @@
 | [0500-keyboard-row](https://github.com/kesavanravi/leetcode/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/kesavanravi/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kesavanravi/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1666-make-the-string-great](https://github.com/kesavanravi/leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kesavanravi/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/kesavanravi/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/kesavanravi/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -308,5 +309,6 @@
 ## Stack
 |  |
 | ------- |
+| [1666-make-the-string-great](https://github.com/kesavanravi/leetcode/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/kesavanravi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
